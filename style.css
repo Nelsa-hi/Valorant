@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Teko:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Indie+Flower&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Teko:wght@300..700&display=swap');
+body, html {
+    height: 100%;
+    margin: 0;
+}
+.name1 {
+    background-image: url(96368-Valorant-Rubble.jpg);
+    height: 80vh; 
+  width: 100%;
+  
+}
+.name{
+    display: flex;
+    justify-content: center;
+    padding-top: 300px;
+    font-family: 'Oswald', sans-serif;
+}
+.val {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    font-size: 150px;
+    font-family: 'Oswald ', sans-serif;
+}
+.video{
+   margin-left: 100px;
+   margin: 200px 0 60px 70px;
+   
+}
+.i{
+    margin-top: 100px;
+}
+.color{
+    background-color: rgb(252, 244, 237);
+    display: flex;
+    justify-content: space-around;
+    height: 700px;
+}
+.ik {
+    font-size: 70px;
+    padding-top: 100px;
+    margin-left: 100px;
+}
+.il {
+    font-size: 30px;
+    margin-left: 100px;
+}
+.ih {
+    font-size: 20px;
+    padding-top: 30px;
+    margin-left: 100px;
+    
+}
+.id {
+    padding-top: 30px;
+    background-color: #ff030385; 
+    padding: 20px;            
+    border-radius: 10px;     
+    width: 150px; 
+    margin: 20px auto;  
+    margin: 30px 0 0 100px;
+}
+.o{
+    text-decoration: none;
+    color: black;
+}
+.i1{
+   display: flex;
+   justify-content: space-around;
+    background-color: rgb(252, 244, 237);
+}
+.ag {
+    font-size: 70px;
+    padding-top: 200px;
+    margin-left: 100px;
+}
+.fk {
+    font-size: 30px;
+    margin-left: 100px;
+}
+.pd {
+    font-size: 20px;
+    padding-top: 30px;
+    margin-left: 100px;
+}
+.iu {
+    padding-top: 30px;
+    background-color: #ff030385; 
+    padding: 20px;            
+    border-radius: 10px;     
+    width: 150px; 
+    margin: 20px auto;  
+    margin: 30px 0 0 100px;
+}
+.img2{
+    width: 649px;
+    height: 360px;
+    padding-top: 200px;
+}
+
+.ok {
+    font-size: 70px;
+    padding-top: 200px;
+    margin-left: 100px;
+}
+.ij {
+    font-size: 20px;
+    margin-left: 100px;
+}
+.od {
+    padding-top: 30px;
+    background-color: #ff030385; 
+    padding: 20px;            
+    border-radius: 10px;     
+    width: 150px; 
+    margin: 20px auto;  
+    margin: 30px 0 0 100px;
+}
+.k{
+    background-color: black;
+    height: 40px;
+    width: 100%;
+    padding-top: 10px;
+    text-align: center;
+    position: fixed;
+}
+.ul{
+text-decoration: none;
+color: #ffffff;
+font-size: 20px;
+}
+.div{
+    display: flex;
+    justify-content: space-around;
+}
+.hidden-audio{
+    display: none;
+}
